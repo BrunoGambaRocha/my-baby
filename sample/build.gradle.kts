@@ -34,8 +34,8 @@ android {
 
 dependencies {
 
-    //implementation(project(":my-baby"))
-    implementation("com.github.BrunoGambaRocha:my-baby:1.0.0")
+    implementation(project(":my-baby"))
+    //implementation("com.github.BrunoGambaRocha:my-baby:1.0.0")
 
     implementation("androidx.core:core-ktx:1.6.0")
     implementation("androidx.appcompat:appcompat:1.3.1")
