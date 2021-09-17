@@ -32,6 +32,7 @@
 - Kotlin
 - Gradle
 - Github
+- Jitpack
 
 
 <hr>
